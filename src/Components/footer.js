@@ -30,7 +30,7 @@ const footer = () => {
                         component={motion.p}
                         whileHover={{ color: '#357ABD' }}
                     >
-                        © 2025 All Rights Reserved
+                        © 2026 All Rights Reserved
                     </Typography>
 
                     <Stack direction="row" gap={{ xs: '10px', md: '20px' }} alignItems="center">
